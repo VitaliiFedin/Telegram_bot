@@ -3,6 +3,6 @@ version: '3.8'
 services:
   bot:
       build: .
-      command : python bot2.py
+      command : python bot.py
       volumes:
       - .:/code
