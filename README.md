@@ -1,6 +1,6 @@
 # Telegram bot
 __________________________________________________________________
-This is a bot which allows to upload photos with their links to download and uses OpenAI to analyze user's answers [bot](t.me/tour_agency_eon_bot).
+This is a bot which allows to upload photos with their links to download and uses OpenAI to analyze user's answers.Try the bot ---> [try](https://t.me/tour_agency_eon_bot).
 ## How to start
 __________________________________________________________________
 Firstly, clone project:
