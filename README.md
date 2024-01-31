@@ -8,6 +8,10 @@ __________________________________________________________________
 - pydantic-settings==2.1.0
 - python-dotenv==1.0.1
 
+To install requirements run
+```bash
+pip install -r requirements.txt
+```
 ## How to start
 __________________________________________________________________
 Firstly, clone project:
